@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For ESP32 BLE Multi Touch
+#######################################
+# Class
+#######################################
+
+BleMultiTouch	KEYWORD1
+
+#######################################
+# Methods and Functions
+#######################################
+
+begin	        KEYWORD2
+end	            KEYWORD2
+isConnected	    KEYWORD2
+setBatteryLevel	KEYWORD2
+send	        KEYWORD2
+touch	        KEYWORD2
+release	        KEYWORD2
+tap	            KEYWORD2
+
+#######################################
+# Constants
+#######################################
+
+REPORTID_TOUCH	LITERAL1
